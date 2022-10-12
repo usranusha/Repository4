@@ -1,7 +1,9 @@
 class HelloWorld
 {
+## new changes are added by chikki
 public static void main(String args[])
 {
+System.out.println("welcome to sidgs")
 System.out.println("Hello World"); //Prints on screen “Hello World”
 }
 }
